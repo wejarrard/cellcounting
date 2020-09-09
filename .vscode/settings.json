@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/willjarrard/.local/share/virtualenvs/cellcounting-WS_iM9CR/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
